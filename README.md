@@ -20,11 +20,11 @@ Axis For Termux, dor sytem injection quota free with scrapper AXISnet.
     ```
     
     ```
-    git clone https://github.com/lycoxz/AxisForTermux.git
+    git clone https://github.com/kazeoiwa12/tembak-axis.git
     ```
 
     ```
-    cd AxisForTermux && chmod +x install && ./install
+    cd tembak-axis && chmod +x install && ./install
     ```
     
     ```
