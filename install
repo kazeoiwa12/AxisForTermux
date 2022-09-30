@@ -14,7 +14,7 @@ echo ""
 echo -e $b"➤ "$w" installing pacakge: "$g"php curl"$w
 pkg install php curl
 echo ""
-cd $HOME/AxisForTermux
+cd $HOME/tembak-axis
 sleep 2
 echo -e $b"➤ "$w" coppying apiaxis: "$g"apiaxis"$w
 cp -rf dor $HOME/
@@ -23,4 +23,4 @@ sleep 2
 clear
 cd
 chmod +x dor
-./dor
+./tembak
