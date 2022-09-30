@@ -1,4 +1,4 @@
 #!/usr/bin/sh
-cd $HOME/AxisForTermux
+cd $HOME/tembak-axis
 clear
 php apiaxis.php
